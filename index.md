@@ -7,6 +7,11 @@ This is your online resource for learning about geographic information system (G
 
 If you have a learning link or news to contribute, please <a href="mailto:cheryl.hughey@geodatait.com">write us.</a>
 
+## News
+<img src="https://cherylhughey.github.io/img/hagen.jpg"><br>
+Pic above: Dr. Patricia Hagen, Executive Director of T-REX speakinga the State of Geodpatial Tech that was held at T-REX in St. Louis on February 8, 2019.
+ 
+
 ## GIS Learning Links
 [Click this link](./learn.html) for learning resources
 
