@@ -10,5 +10,4 @@ layout: default
 
 [Click here for learning opportunities](./learn.html)
 
-<img src="cherylhughey.github.io/img/stlmap.jpg">
       
