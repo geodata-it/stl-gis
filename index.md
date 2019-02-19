@@ -6,6 +6,6 @@ layout: default
 
 [Click here for GIS jobs in STL.](./hot-jobs.html)
 
-# GIS Learning links
+# GIS Learning Links
 
 [Click here for learning opportunities](./learn.html)
