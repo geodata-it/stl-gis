@@ -7,6 +7,8 @@ This is your online resource for learning about geographic information system (G
 
 If you have a learning link or news to contribute, please <a href="mailto:cheryl.hughey@geodatait.com">write us.</a>
 
+
+
 ## GIS Learning Links
 [Click this link](./learn.html) for learning resources
 
