@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# Hot Jobs!
-
-[Click here for GIS jobs in STL.](./hot-jobs.html)
+Welcome to STL GIS. This is your location for GIS news, events, education and hot job in St. Louis, Missouri. Our goal is to help our hometown become the leading city in the nation for GIS technology.
 
 # GIS Learning Links
 
