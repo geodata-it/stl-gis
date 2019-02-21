@@ -22,6 +22,7 @@ Pic: St. Louis Mayor Lyda Krewson<br>
 <img src="https://cherylhughey.github.io/img/geosaurus1b.jpg"><br>
 Pic: St. Louis Development Corporation Executive Director Otis Williams
 <br>
+<br>
 <a href="https://github.com/cherylhughey/stlgis/blob/master/archives.md"><i>Archived News</i></a>
 <br>
 <hr>
