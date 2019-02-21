@@ -23,7 +23,9 @@ Pic: St. Louis Mayor Lyda Krewson<br>
 Pic: St. Louis Development Corporation Executive Director Otis Williams
 <br>                                                                                                                 
 <hr>
+<br>
 ## Previous News
+
 <center><img src="https://cherylhughey.github.io/img/hagen.jpg"></center><br>
 Pic above: Dr. Patricia Hagen, Executive Director of T-REX speaking at the State of Geospatial Tech meeting that was held at T-REX in St. Louis on February 8, 2019.
  
