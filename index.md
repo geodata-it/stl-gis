@@ -15,9 +15,11 @@ On 2/21, 2019 T-REX held a groundbreaking and name unveiling for the GIS Resourc
 
 <img src="https://cherylhughey.github.io/img/geosaurus2b.jpg"><br>
 Pic: T-REX Executive Director Dr. Patricia Hagen<br>
+<br>
 <img src="https://cherylhughey.github.io/img/geosaurus3b.jpg"><br>
 Pic: St. Louis Mayor Lyda Krewson<br>
-<img src="https://cherylhughey.github.io/img/geosaurus2b.jpg"><br>
+<br>
+<img src="https://cherylhughey.github.io/img/geosaurus1b.jpg"><br>
 Pic: St. Louis Development Corporation Executive Director Otis Williams
 <br>                                                                                                                 
 <hr>
