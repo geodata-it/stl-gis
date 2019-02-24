@@ -6,7 +6,6 @@ layout: default
   <li><a href="/stlgis/pages/learn.html">Learning Links</a></li>
   <li><a href="/stlgis/pages/map.html">Downtown St. Louis Map</a></li>
 </ul>
-<br>
 <img src="https://cherylhughey.github.io/img/usgs-bar.jpg">
 
 # Welcome
