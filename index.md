@@ -2,7 +2,6 @@
 layout: default
 ---
 <ul>
-  <li><a href="/stlgis/">Home</a></li>
   <li><a href="/stlgis/pages/hot-jobs.html">Hot Jobs</a></li>
   <li><a href="/stlgis/pages/learn.html">Learning Links</a></li>
   <li><a href="/stlgis/pages/map.html">Downtown St. Louis Map</a></li>
