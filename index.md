@@ -1,14 +1,13 @@
 ---
 layout: default
 ---
-<img src="https://cherylhughey.github.io/img/usgs-bar.jpg">
-
 <ul>
   <li><a href="/stlgis/">Home</a></li>
   <li><a href="/stlgis/pages/hot-jobs.html">Hot Jobs</a></li>
   <li><a href="/stlgis/pages/learn.html">Learning Links</a></li>
   <li><a href="/stlgis/pages/map.html">Downtown St. Louis Map</a></li>
 </ul>
+<img src="https://cherylhughey.github.io/img/usgs-bar.jpg">
 
 # Welcome
 This is your online resource for learning about geographic information system (GIS) and geospatial intelligence (GEOINT) in St. Louis, Missouri. Our goal is to help our hometown become the leading city in the nation for GIS technology. Thus, we want to provide useful information for all levels of professionals. If you're a pro, check out our Hot Jobs button at the top of this page. If you're a new learner, be sure to take advantage of the expansive information available in the GIS learning links below.
