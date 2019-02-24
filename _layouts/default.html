@@ -20,8 +20,12 @@
         <a href="{{ '/' | absolute_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-        <a href="/stlgis/hot-jobs.html" class="button"><small>View</small> HOT Jobs</a><br>
+        <ul>
+          <li><a href="/stlgis/">Home</a></li>
+          <li><a href="/stlgis/pages/hot-jobs.html">Hot Jobs</a></li>
+          <li><a href="/stlgis/pages/learn.html">Learning Links</a></li>
+          <li><a href="/stlgis/pages/map.html">Downtown St. Louis Map</a></li>
+        </ul>
       </div>
     </header>
 
@@ -32,14 +36,8 @@
         </section>
 
         <aside id="sidebar">
-
-          <p><h2>Navigation</p></h2>
-          <ul>
-            <li><a href="/stlgis/">Home</a></li>
-            <li><a href="/stlgis/pages/hot-jobs.html">Hot Jobs</a></li>
-            <li><a href="/stlgis/pages/learn.html">Learning Links</a></li>
-            <li><a href="/stlgis/pages/map.html">Downtown St. Louis Map</a></li>
-          </ul>
+          <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+          <a href="/stlgis/hot-jobs.html" class="button"><small>View</small> HOT Jobs</a><br>
           <hr>
 
            <p><h2>Upcoming area events</p></h2>
