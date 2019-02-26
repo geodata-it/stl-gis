@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<h1>Site Map</h1>
+Site Map:
 <ul>
   <li><a href="/stlgis/pages/hot-jobs.html">Hot Jobs</a></li>
   <li><a href="/stlgis/pages/learn.html">Learning Links</a></li>
