@@ -17,7 +17,7 @@ If you have a learning link or news to contribute, please <a href="mailto:cheryl
 ## Current News
 
 ### Pics from the St. Louis GEOINT Send-Off Celebration 
-On May 24, 2019, T-REX held a #STLMade event to celebrate the upcoming GEOINT Symposium in San Antonio, Texas and the future of St. Louis as the place to be for the industry. Pictures from the event are below.
+On May 23, 2019, T-REX held a #STLMade event to celebrate the upcoming GEOINT Symposium in San Antonio, Texas and the future of St. Louis as the place to be for the industry. Pictures from the event are below.
 
 <img src="https://raw.githubusercontent.com/cherylhughey/stlgis/master/assets/images/stlmade1.jpg"><br>
 Pic: USGIF Board Member Keith Masback<br>
