@@ -17,6 +17,11 @@ If you have a learning link or news to contribute, please <a href="mailto:cheryl
 ## Current News
 
 ### GEOINT 2019
+June 4, 2019 - (L-R) Lyda Krewson, St. Louis Mayor; Justin Bennett, Geodata IT President and CEO and Vice Admiral Robert D. Sharp, NGA Director
+<br>
+<img src="assets/images/geoint2019b.jpg">
+<br>
+<br>
 June 3, 2019 - Pictured below is the Geodata IT President and CEO Justin Bennett with St. Louis Mayor Lyda Krewson at GEOINT 2019.
 "The future of Geospatial is STLMade."<br>
 <br>
