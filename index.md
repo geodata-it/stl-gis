@@ -26,7 +26,9 @@ Pic: USGIF Board Member Keith Masback<br>
 Pic: City of St. Louis Mayor Lyda Krewson<br>
 <br>
 <br>
+<a href="https://github.com/cherylhughey/stlgis/blob/master/archives.md"><i>Archived News</i></a>
 <br>
+<hr>
 
 
 ## GIS Learning Links
