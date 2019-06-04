@@ -3,6 +3,7 @@
 ## Archived News
 <br>
 ### Pics from the Geosaurus Groundbreaking
+
 On February 21, 2019, T-REX held a groundbreaking and name unveiling for the GIS resource center. "Geosaurus" will serve as an innovation hub in downtown St. Louis for the burgeoning geographic information systems community. Pictures from the event are below.
 <br>
 <img src="https://cherylhughey.github.io/img/geosaurus2b.jpg"><br>
@@ -16,6 +17,7 @@ Pic: St. Louis Development Corporation Executive Director Otis Williams
 <br>
 <hr>
 ### Archived 2/21/2019
+
 <img src="https://cherylhughey.github.io/img/hagen.jpg">
 <br>
 Pic above: Dr. Patricia Hagen, Executive Director of T-REX speaking at the State of Geospatial Tech meeting that was held at T-REX in St. Louis on February 8, 2019.
