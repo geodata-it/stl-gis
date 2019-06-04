@@ -20,7 +20,7 @@ If you have a learning link or news to contribute, please <a href="mailto:cheryl
 June 3, 2019 - Pictured below is the Geodata IT President and CEO Justin Bennett with St. Louis Mayor Lyda Krewson at GEOINT 2019.
 "The future of Geospatial is STLMade."<br>
 <br>
-<img src="https://github.com/cherylhughey/stlgis/blob/master/assets/images/geoint2019.jpg">
+<img src="assets/images/geoint2019.jpg">
 <br>
 <br>
 
