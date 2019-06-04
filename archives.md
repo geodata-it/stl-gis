@@ -1,7 +1,7 @@
 <img src="https://cherylhughey.github.io/img/usgs-bar.jpg"><br>
 
 ## Archived News
-<br>
+
 ### Pics from the Geosaurus Groundbreaking
 
 On February 21, 2019, T-REX held a groundbreaking and name unveiling for the GIS resource center. "Geosaurus" will serve as an innovation hub in downtown St. Louis for the burgeoning geographic information systems community. Pictures from the event are below.
