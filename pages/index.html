@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Geodata IT</title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+    integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+    crossorigin=""/>
+  <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+    integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+    crossorigin=""></script>
+
+  <script src="https://unpkg.com/esri-leaflet@2.2.4/dist/esri-leaflet.js"
+    integrity="sha512-tyPum7h2h36X52O2gz+Pe8z/3l+Y9S1yEUscbVs5r5aEY5dFmP1WWRY/WLLElnFHa+k1JBQZSCDGwEAnm2IxAQ=="
+    crossorigin=""></script>
+
+    <style>
+    html,
+    body,
+    #map {
+      height: 100%;
+      width: 100%;
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+
+</head>
+<body>
+  <center><img src = "https://geodatait.com/wp-content/uploads/2018/05/gd2_whitebg-crop.jpg"><br>
+        <h1>Geodata IT is proudly located<br>
+          at T-REX in St. Louis</h1>
+            <p>
+        <i>Address/Phone:</i><br>
+            911 Washington Avenue, Suite 737<br>
+              St. Louis, Missouri 63101<br>
+                1-866-229-8606<br>
+                  <a href="http://www.geodatait.com">www.GeodataIT.com</a><br>
+              </p>
+          <p> Parking is conveniently located directly behind the building and payable by credit card. (Fees vary.)
+            </p>
+         </center>
+         <br>
+
+  <div id="map"></div>
+  <script>
+        const map = L.map('map', {
+          center: [38.6314054, -90.1932178],
+          zoom: 13
+        });
+        const esriStreets = L.esri.basemapLayer('Streets').addTo(map);
+        L.marker([38.6314054, -90.1932178]).addTo(map)
+			 .bindPopup('Geodata IT, LLC<br>911 Washington, Suite 737')
+			 .openPopup();
+    </script>
+
+</body>
+</html>
