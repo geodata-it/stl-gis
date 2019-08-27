@@ -17,7 +17,7 @@ If you have a learning link or news to contribute, please <a href="mailto:cheryl
 ## Current News
 
 ### USGIF Working Group Summit
-August 27, 2019 - Pic: Zachary Jett, Acquisition Agility Champion, ODNI, speaking about Acquisition Agility at the USGIF Working Group Summit this morning at the Trajectory Event Center in Herndon, VA. The President and CEO of Geodata IT, Justin Bennett, will be speaking later.
+August 27, 2019 - Pic: Zachary Jett, Acquisition Agility Champion, ODNI, speaking about Acquisition Agility at the USGIF Working Group Summit this morning at the Trajectory Event Center in Herndon, VA. The President and CEO of Geodata IT, Justin Bennett, will be speaking later.<br>
 <br>
 <img src="assets/images/usgif2.jpg">
 <br>
