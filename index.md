@@ -3,9 +3,9 @@ layout: default
 ---
 Site Map:
 <ul>
-  <li><a href="/pages/hot-jobs.html">Hot Jobs</a></li>
-  <li><a href="/pages/learn.html">Learning Links</a></li>
-  <li><a href="/pages/map.html">Downtown St. Louis Map</a></li>
+  <li><a href="/stlgis/pages/hot-jobs.html">Hot Jobs</a></li>
+  <li><a href="/stlgis/pages/learn.html">Learning Links</a></li>
+  <li><a href="/stlgis/pages/map.html">Downtown St. Louis Map</a></li>
 </ul>
 <img src="https://cherylhughey.github.io/img/usgs-bar.jpg">
 
