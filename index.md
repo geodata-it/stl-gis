@@ -16,6 +16,12 @@ If you have a learning link or news to contribute, please <a href="mailto:cheryl
 
 ## Current News
 
+### AWS Hands-On Event
+AWS and Geodata IT representatives will be available for a hands-on cloud learning event on October 10, 2019 at T-REX in St. Louis, Missouri. There will be <a href="https://www.eventbrite.com/e/aws-hands-on-learning-morning-session-tickets-73595731815">morning</a> and <a href="https://www.eventbrite.com/e/aws-hands-on-learning-afternoon-session-tickets-73599180129">afternoon</a> sessions. Pre-registration required. Please bring your own laptop.
+
+### USGIF Gateway Forum 
+The USGIF Gateway Forum runs from October 7-9 in St. Louis, Missouri. Details <a href="https://usgif.org/events/GeoGatewayForum">here</a>.
+
 ### USGIF Working Group Summit
 August 27, 2019 - Pic: Zachary Jett, Acquisition Agility Champion, ODNI, speaking about Acquisition Agility at the USGIF Working Group Summit this morning at the Trajectory Event Center in Herndon, VA. The President and CEO of Geodata IT, Justin Bennett, will be speaking later.<br>
 <br>
