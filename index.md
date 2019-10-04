@@ -17,7 +17,7 @@ If you have a learning link or news to contribute, please <a href="mailto:cheryl
 ## Current News
 
 ### AWS Hands-On Event
-10/4/2019 UPDATE: This event has been cancelled.
+Note - This event has been cancelled. (Posted 10/4/2019)
 
 AWS and Geodata IT representatives will be available for a hands-on cloud learning event on October 10, 2019 at T-REX in St. Louis, Missouri. There will be <a href="https://www.eventbrite.com/e/aws-hands-on-learning-morning-session-tickets-73595731815">morning</a> and <a href="https://www.eventbrite.com/e/aws-hands-on-learning-afternoon-session-tickets-73599180129">afternoon</a> sessions. Pre-registration required. Please bring your own laptop.
 
